@@ -1,0 +1,15 @@
+
+.textLeft {
+    text-align: left;
+  }
+  .card {
+    width: 350px;
+    border: rgb(163, 163, 163) solid 1px;
+    border-radius: 10px;
+    background-color: #fff;
+    margin: auto;
+  }
+  .image {
+    min-width: 155px;
+    margin-right: 20px;
+  }
